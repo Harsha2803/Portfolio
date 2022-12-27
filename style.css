@@ -84,7 +84,7 @@ img{
 #header .header{
     min-height: 8vh;
     background-color: rgba(31, 30, 30, 0.24);
-    transition: .3s ease background-color;
+    transition: 0.3s ease background-color;
 }
 #header .nav-bar{
     display: flex;
@@ -330,7 +330,7 @@ img{
     padding: 30px;
     max-width: 500px;
     border-radius: 20px;
-    background-image: url(/img/skilsl.jpg) ;
+    background-image: url(./img/skilsl.jpg) ;
     background-size:cover;
     margin: 10px 5%;
     position: relative;
@@ -416,7 +416,7 @@ img{
     flex-direction: column;
     padding: 40px;
     border-radius: 20px;
-    background-image: url(/img/projects.jpg) ;
+    background-image: url(./img/projects.jpg) ;
     background-size:cover;
     margin: 10px 5%;
     position: relative;
@@ -576,7 +576,7 @@ img{
     height: 100px;
     padding: 30px;
     border-radius: 20px;
-    background-image: url(/img/contact.jpg) ;
+    background-image: url(./img/contact.jpg) ;
     background-size:cover;
     margin: 10px 5%;
     position: relative;
